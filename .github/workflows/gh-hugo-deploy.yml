@@ -22,3 +22,4 @@ jobs:
         uses: ./action/deploy_hugo/
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          
