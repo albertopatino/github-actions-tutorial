@@ -3,9 +3,9 @@
 
 languageCode = "en-us"
 title = "Alpha by HTML5 UP"
-baseURL = "https://example.com"
+baseURL = ""
 theme = "hugo-html5up-alpha"
-disqusShortname = ""
+disqusShortname = "https://albertopatino.github.io/github-actions-tutorial/"
 canonifyurls = true
 
 [params]
